@@ -1,20 +1,13 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&width=380&height=45"</p>
-  
-### Hey, I'm Romero Cartaxo 👨‍🦱
-#### I'm studying Computer Science and work as python developer 💻
-<!---
-your comment goes here
-and here
 
 </div>
   <div align="left">
   <a href="https://github.com/CTXO">
+    <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ctxo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctxo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
--->
----
+
 ### :books: Main skills and tools:
 
 - Back-End
